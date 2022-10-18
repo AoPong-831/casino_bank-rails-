@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  money: 1
+  debt: 1
+  visits: 1
+  lastday: 2022-10-18 20:40:36
+
+two:
+  name: MyString
+  money: 1
+  debt: 1
+  visits: 1
+  lastday: 2022-10-18 20:40:36
